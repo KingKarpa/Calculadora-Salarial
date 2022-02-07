@@ -1,5 +1,5 @@
 # Calculadora-Salarial
 
-Uma simples calculadora salarial
-Atividade para exercitar o JS
+ - Uma simples calculadora salarial
+ - Atividade para exercitar o JS
 ##
