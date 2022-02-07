@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Salarial</title>
+    <link href="./Reset/ResetCSS-style.css" rel="stylesheet">
+    <link href="./style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <div id="btema">
+        <button id="tema" class="botao" name="theme" onclick="DarkTheme()">Tema Escuro</button>
+    </div>
+    <h1>Calculadora Salarial Simples</h1>
+    <main>
+        <div id="formstart">
+        <h2 id="h2origin">Selecione o Tipo de Contrato</h2>
+        <select name="TIPO" id="contrato">
+            <option value="NADA" selected disabled hidden>Selecione Aqui</option>
+            <option value="HORA">Horista</option>
+            <option value="FIXO">Assalariado</option>
+            <option value="INST">Comissionado</option>
+        </select>
+        </div>
+        <div id="renda"></div>
+        <div id="bot">
+            <button id="mud" class="botao" name="acept" onclick="gerarForm()">Confirmar</button>
+            <button id="mud2" class="botao" name="reset" onclick="location.reload()">Cancelar</button>
+        </div>
+        <div id="resultado"></div>
+    </main>
+
+    <script src="./script.js"></script>
+</body>
+</html>
