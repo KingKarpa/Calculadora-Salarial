@@ -9,4 +9,4 @@ Possíveis melhorias:
  - Adicionar um máximo de caracteres nos input's
  - Adicionar outros possíveis descontos salariais
 
-<h2> <a href="https://nicolasolivr.github.io/Calculadora-Salarial/">Teste Aqui</a> </h2>
+<h2> <a href="https://kingkarpa.github.io/Calculadora-Salarial/">Teste Aqui</a> </h2>
