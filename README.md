@@ -1,5 +1,6 @@
 # Calculadora-Salarial
 
+ - Primeiro projeto 
  - Uma simples calculadora salarial que retorna o saldo líquido com base nas informações preenchidas
  - Atividade para exercitar o JS
 ##
